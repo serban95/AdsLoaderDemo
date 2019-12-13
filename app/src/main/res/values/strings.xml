@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MatchManiaDemo</string>
+    <string name="loading_text">Loading…</string>
+
+    <string name="load_ad_interstitial">Interstitial AdMob</string>
+    <string name="load_ad_rewarded">Rewarded AdMob</string>
+    <string name="load_ad_interstitial_ad_colony">Interstitial AdColony</string>
+    <string name="load_ad_rewarded_ad_colony">Rewarded AdColony</string>
+</resources>
